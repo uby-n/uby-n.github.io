@@ -1,0 +1,42 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .body {
+    position: relative;
+    background-color: white;
+    width: 750px;
+    margin: 0 auto;
+  }
+
+  h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+ /* html{
+    background-color: #90ADC6;
+    position: relative;
+  }*/
+
+  #profile{
+    image-orientation: inherit;
+  }
+
+  .footer {
+    padding: 30px;
+    text-align: left;
+    background: #1abc9c;
+    color: black;
+    font-size: 18px;
+    height: 25px;
+  }
+   
+  hr{
+    width: 50%;
+    background:#1abc9c;
+    height: 3px;
+  }
